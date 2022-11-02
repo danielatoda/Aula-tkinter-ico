@@ -1,6 +1,6 @@
 from tkinter import *
 
-cor1 = "#F6A3C2"
+cor1 = "#F683C2"
 principal = Tk()
 principal.title = "Cadastro"
 principal.configure(background=cor1)
